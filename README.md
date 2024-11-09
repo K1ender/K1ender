@@ -1,5 +1,7 @@
 # Hi there 👋
 
-## Just a developer who has been doing something for a long time, but was afraid to show someone, and now he is trying to fight this fear🫡
+## Know very well
+[![](https://skillicons.dev/icons?i=html,css,js,ts,bun,react,next,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bun,ts,react,next,vscode,vite,astro,elysia,github)](https://skillicons.dev)
+## Learning
+[![](https://skillicons.dev/icons?i=vue,nuxt,rust,laravel)](https://skillicons.dev)
